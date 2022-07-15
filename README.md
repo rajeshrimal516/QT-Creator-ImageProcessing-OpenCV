@@ -1,4 +1,4 @@
-# **QT-Creator-ImageProcessing Using OpenCV in C++**
+# **QT-Creator ImageProcessing Using OpenCV in C++**
 
 An application - graphical user interface (GUI) using a QT Creator software, which will allow user to import an image or capture image from camera. Moreover, the developed application will allow user to change a brightness, contrast, sharpness, resizing, color, hue of the imported image using a slider and save the changed image. 
 
